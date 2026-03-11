@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; margin: 20px; }
+nav { background: #333; padding: 10px; }
+nav a { color: white; margin-right: 15px; text-decoration: none; }
+.products { display: flex; gap: 20px; flex-wrap: wrap; }
+.product-card { border: 1px solid #ccc; padding: 10px; width: 200px; }
+.flashes { color: green; }
